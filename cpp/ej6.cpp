@@ -19,7 +19,7 @@ int main () {
 
     } else {
         
-        for (int i=1; valor >= i; i++){
+        for (int i=1; valor >= i; i=i+2){
 
             
             r = i + r;
