@@ -25,5 +25,8 @@ Ahora con este comando se ejecuta el programa
 los archivos de los ejercicio hechos en c++ se encuentra en la carpeta:
 [Archivos c++](https://github.com/cnaranjo09/Personal_Projects/tree/main/cpp)
 
+## Referencias para practicar c++
+[Link youtube](https://www.youtube.com/watch?v=12xEUfqiO0M&list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh&index=33)
+
 
 
